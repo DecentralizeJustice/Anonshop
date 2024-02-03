@@ -17,6 +17,10 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Does this service works only in US?`,
+    a: `Anon Shop can work in most countries. You can place an order and test it. If it does not work, I will issue you a full refund!`
+  },
+{
     q: `I am having issues placing a locker order, I tried different web browsers. I click confirm passphrase saved and then nothing happens.`,
     a: `My btcpay server was having an issue. I changed some settings, so you can tray again. If the problem exist, just shoot me another message with your order details and I will try and recreate your issue. Thanks for reaching out!`
   },
