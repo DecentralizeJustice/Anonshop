@@ -17,6 +17,17 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `What should I do if want to buy a product outside US?
+Should I calculate
+an exchanged price from my country's amazon, or find same product in amazon.com?
+?`,
+    a: `You should calculate an exchange rate. Thanks for asking!`
+  },
+  {
+    q: `Do you ship and support for Canada ???`,
+    a: `Yes.`
+  },
+{
     q: `Does this service works only in US?`,
     a: `Anon Shop can work in most countries. You can place an order and test it. If it does not work, I will issue you a full refund!`
   },
@@ -372,8 +383,8 @@ function selectQuestion(chosen) {
 <!--                 <span class="inline-block mb-4 text-sm text-blue-500 font-bold uppercase tracking-widest">Message Me</span> -->
                 <h2 class="font-heading text-blue-500 mb-6 text-4xl md:text-5xl lg:text-6xl  font-black tracking-tight">Message Me</h2>
                 <p class="text-gray-200 font-bold text-xl">
-                  Shoot me a message about anything anonymously. I work really hard on my project and I welcome all questions you might have!
-                  I will respond on at the bottom of this page.
+                  Shoot me a message about anything anonymously. I work hard on my project and I welcome all questions you might have!
+                  I will respond on at the bottom of this page. You can also search this page and see if anyone has asked your question before.
                 </p>
               </div>
 <!--               <div class="flex flex-wrap -m-5  md:block hidden">
