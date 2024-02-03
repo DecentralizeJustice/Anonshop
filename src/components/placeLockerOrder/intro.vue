@@ -45,7 +45,7 @@ const allready = computed(() => {
           <div class="w-full md:w-1/2 p-8 ">
             <div class="md:max-w-md mx-auto text-center">
               <span class="inline-block mb-6 text-lg text-blue-500 font-bold uppercase tracking-widest">Anonymous Locker</span>
-                    <p class="mb-8 mt-2 text-2xl text-left text-white">This service allows you to have Amazon items shipped to Amazon Lockers or Amazon Counters near you.
+                    <p class="mb-8 mt-2 text-2xl text-left text-white">This service allows you to have Amazon items shipped to an Amazon Locker or Amazon Counter near you.
                     </p>
             </div>
           </div>
