@@ -17,6 +17,10 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `My order got cancelled.  Can you look up why?`,
+    a: `If your order was canceled the chat message will have a reason why. If you no longer have access to your order, you can place it again.`
+  },
+{
     q: `What should I do if want to buy a product outside US?
 Should I calculate
 an exchanged price from my country's amazon, or find same product in amazon.com?
