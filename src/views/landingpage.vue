@@ -138,6 +138,9 @@ const messageArray = ref([])
                 <li class="flex items-center mb-4">
                   <svg class="mr-2.5" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.16699 10.8335L7.50033 14.1668L15.8337 5.8335" stroke="#F3F4F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg><p class="text-gray-100 font-bold">Super Flexible Service</p>
                 </li>
+                <li class="flex items-center mb-4">
+                  <svg class="mr-2.5" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.16699 10.8335L7.50033 14.1668L15.8337 5.8335" stroke="#F3F4F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg><p class="text-gray-100 font-bold">Package Forwarding available</p>
+                </li>
 
 
 
@@ -165,15 +168,20 @@ const messageArray = ref([])
                   <svg class="mr-2.5" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.16699 10.8333L7.50033 14.1667L15.8337 5.83333" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg><p class="text-gray-100 font-bold">Wait and Save on Amazon Wish List Orders</p>
                 </li>
                 <li class="flex items-center mb-4">
-                  <svg class="mr-2.5" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.16699 10.8333L7.50033 14.1667L15.8337 5.83333" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg><p class="text-gray-100 font-bold">Earners Pickup Order</p>
+                  <svg class="mr-2.5" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4.16699 10.8333L7.50033 14.1667L15.8337 5.83333" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg><p class="text-gray-100 font-bold">Secured with zero knowledge proofs</p>
                 </li>
 
 
               </ul></div>
             <div class="flex-initial">
               <div class="flex flex-wrap -m-2">
-                <div class="w-full p-2"><router-link class="block w-full px-8 py-3.5 text-lg text-center text-gray-100 font-bold bg-gray-700 hover:bg-gray-800 focus:ring-4 focus:ring-gray-400 rounded-full" to="">
-                  Coming Soon</router-link></div>
+                <div class="w-full p-2">
+                  <a class="" href="https://peershop.app/" target="_blank" rel="noopener noreferrer">
+                  <span class="block w-full px-8 py-3.5 text-lg text-center text-gray-100 font-bold bg-gray-700 hover:bg-gray-800 focus:ring-4 focus:ring-gray-400 rounded-full" to="/peershop">
+                    Explore Peer Shop
+                  </span>
+                </a>
+                </div>
               </div>
             </div>
           </div>
