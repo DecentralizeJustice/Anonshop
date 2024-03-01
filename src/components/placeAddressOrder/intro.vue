@@ -12,7 +12,7 @@ const requirements = [
 {
     title: 'We also offer package forwarding via this service.',
     text: `With package forwarding, your item is delivered to me, and I send it to you. This can help hide your address from a retailer.
-    In order to request this service, simply checkout here and shoot me a message in your order chat.`
+    In order to request this service, simply checkout here and shoot me a message in your order chat. Package forwarding also requires you to pay for shipping to your address, from me.`
   }
 ]
 function next(){
