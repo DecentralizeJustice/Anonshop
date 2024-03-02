@@ -17,6 +17,10 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `New orders are currently paused while we update our note infrastructure.`,
+    a:`New orders are currently paused while we update our note infrastructure.`
+  },
+{
     q: `My order got cancelled.  Can you look up why?`,
     a: `If your order was canceled the chat message will have a reason why. If you no longer have access to your order, you can place it again.`
   },
