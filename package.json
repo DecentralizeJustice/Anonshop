@@ -28,6 +28,8 @@
     "autoprefixer": "^10.4.14",
     "daisyui": "^3.0.3",
     "postcss": "^8.4.24",
+    "sanitize-html": "^2.12.1",
+    "sass": "^1.71.1",
     "tailwindcss": "^3.3.2",
     "vite": "^4.3.9"
   }
