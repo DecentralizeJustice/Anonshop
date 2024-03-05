@@ -17,8 +17,8 @@ async function sendMessage() {
 }
 const faq = [
 {
-    q: `New orders are currently paused while we update our node infrastructure.`,
-    a:`New orders are currently paused while we update our node infrastructure.`
+    q: `The store is back up! Thanks for your patience!`,
+    a:`The store is back up! Thanks for your patience!`
   },
 {
     q: `My order got cancelled.  Can you look up why?`,
