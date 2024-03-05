@@ -130,7 +130,7 @@
       
   <script setup>
   import { defineProps, toRef, ref, computed  } from "vue"
-  import mainChat from '@/components/customerAdmin/mainChat.vue'
+  //import mainChat from '@/components/customerAdmin/mainChat.vue'
   import { useRouter } from 'vue-router'
   import axios from 'axios'
   const props = defineProps({
