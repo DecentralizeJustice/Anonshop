@@ -17,6 +17,10 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hey I placed an order for....`,
+    a:`Hi. Amazon lost your package but they are sending a new one. It should arrive by saturday!`
+  },
+{
     q: `What is the limit on purchases?  It seems like I cannot place an order >5000.  Is this intentional?!`,
     a:`If you want to place an order larger than 5,000 usd, you should place the order, but instead of price the items at a low number such as 20 usd or something. This allows us to preview the order and chat with you before requesting the full amount in the chat!`
   },
