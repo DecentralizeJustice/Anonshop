@@ -17,6 +17,11 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `I think you scammed me for that
+Gold but we will see I guess`,
+    a:`Hi. If your order is the one I think it is; This was delivered over a week ago. I dropped tracking info in the chat, but that chat has been deleted since its been over a week since delivery. Please place a new order, I will refund you for the mock order, and we will have a chat to discuss this order further. There is also a link given in the chat, if writing down the 8 words does not work for you.`
+  },
+{
     q: `Hey I placed an order for....`,
     a:`Hi. Amazon lost your package but they are sending a new one. It should arrive by saturday!`
   },
