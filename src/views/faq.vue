@@ -18,6 +18,10 @@ const faq = [
   {
     question: `Do you offer refunds/returns?`,
     answer: `Due to Amazon return scams, you must make an account and use a gift recipient to make a return. If you would like to have a gift receipt added, please shoot us a message after you place your order. If there is a problem with your order and your order can not be placed, We can issue you a refund.`
+  },
+  {
+    question: `Do you use Amazon Prime?`,
+    answer: `No. We do no use Amazon Prime to ship products. If you want faster shipping, that would be extra.`
   }
 ]
 const selectedQuestion = ref(-1)
