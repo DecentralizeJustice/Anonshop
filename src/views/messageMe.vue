@@ -17,6 +17,12 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hi
+
+Can you buy from shops outside USA too, like from Norway?`,
+    a:`Yes. We can deliver anywhere the original site can deliver to.`
+  },
+{
     q: `I think you scammed me for that
 Gold but we will see I guess`,
     a:`Hi. If your order is the one I think it is; This was delivered over a week ago. I dropped tracking info in the chat, but that chat has been deleted since its been over a week since delivery. Please place a new order, I will refund you for the mock order, and we will have a chat to discuss this order further. There is also a link given in the chat, if writing down the 8 words does not work for you.`
