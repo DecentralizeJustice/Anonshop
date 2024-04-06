@@ -16,6 +16,11 @@ async function sendMessage() {
   messageSent.value = true
 }
 const faq = [
+  {
+    q: `Would I be able to use your service to forward mail?
+Such as if I mailed a package to you and then you mailed it to someone else`,
+    a:`Yes. Just place an order and write a note and message saying that you would like package forwarding.`
+  },
 {
     q: `Hi
 
