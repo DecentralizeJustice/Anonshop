@@ -16,6 +16,10 @@ async function sendMessage() {
   messageSent.value = true
 }
 const faq = [
+{
+    q: `hey, I placed an order and it looks like the 8 words don't work`,
+    a: `You did not place a refund address with your order. Send me your refund address with your monero txid again and I will refund you can place the order again if you wish.`
+  },
   {
     q: `Would I be able to use your service to forward mail?
 Such as if I mailed a package to you and then you mailed it to someone else`,
