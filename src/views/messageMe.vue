@@ -17,6 +17,15 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hello
+
+i would want some Tickets, are you able to book them for me as they only take paypal and creditcard as payment. i would pay via xmr.
+
+it will be sent digital so no delivery needed
+`,
+    a: `Yes. Just place an locker order with dummy info and we can chat more in the order chat!`
+  },
+{
     q: `hey, I placed an order and it looks like the 8 words don't work`,
     a: `You did not place a refund address with your order. Send me your refund address with your monero txid again and I will refund you can place the order again if you wish.`
   },
