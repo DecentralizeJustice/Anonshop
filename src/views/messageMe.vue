@@ -17,11 +17,17 @@ async function sendMessage() {
 }
 const faq = [
 {
-    q: `Hello
-
-i would want some Tickets, are you able to book them for me as they only take paypal and creditcard as payment. i would pay via xmr.
-
-it will be sent digital so no delivery needed
+    q: `date is September 16th 2024,  Are you still active on this site?  Are you still taking orders and processing them?`,
+    a: `Yes.`
+  },
+{
+    q: `I placed order 9/9/2024
+total USD 383.50.
+Now I can't login in .
+My monero address
+`},
+{
+    q: `Hi. Your order has an eta of Friday. You might want to check your words and try again to login. Shott me a messag here again if you cant login.
 `,
     a: `Yes. Just place an locker order with dummy info and we can chat more in the order chat!`
   },
