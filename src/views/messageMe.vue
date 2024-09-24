@@ -17,6 +17,11 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hello.
+I ordered cell phone with sim card with deliver at....`,
+    a: `Your order is working on my end. You should try your words again and save the link for your order when it works.`
+  },
+{
     q: `date is September 16th 2024,  Are you still active on this site?  Are you still taking orders and processing them?`,
     a: `Yes.`
   },
