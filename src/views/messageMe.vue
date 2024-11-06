@@ -17,6 +17,10 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `I placed an order on Friday Oct 25th, 2024. It was for several items. I have yet to receive tracking or any of my items. Can I please get an update?`,
+    a: `Hi Friend. I am not showing an orders placed on that date. Please send me your order link and payment date.`
+  },
+{
     q: `Hello.
 I ordered cell phone with sim card with deliver at....`,
     a: `Your order is working on my end. You should try your words again and save the link for your order when it works.`
