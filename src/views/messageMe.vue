@@ -447,7 +447,7 @@ function selectQuestion(chosen) {
 <!--                 <span class="inline-block mb-4 text-sm text-blue-500 font-bold uppercase tracking-widest">Message Me</span> -->
                 <h2 class="font-heading text-blue-500 mb-6 text-4xl md:text-5xl lg:text-6xl  font-black tracking-tight">Message Me</h2>
                 <p class="text-gray-200 font-bold text-xl">
-                  Shoot me a message about anything anonymously. I work hard on my project and I welcome all questions you might have!
+                  Shoot me a message about anything anonymously. If you have a current order, include your passphrase with your message. I work hard on my project and I welcome all questions you might have!
                   I will respond on at the bottom of this page. You can also search this page and see if anyone has asked your question before.
                 </p>
               </div>
