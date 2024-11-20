@@ -17,6 +17,12 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hey can you buy me a laptop on lenovo.com/es
+And I pay you with monero?
+Or is it only Amazon?`,
+    a: `Yes, I can place this order for you.`
+  },
+{
     q: `I placed the order on the 25th. The payment gateway showed the payment was accepted. On the 29th i received a message at the top of the pass phrase page stating my order was being processed and tracking...`,
     a: `Please message me your passphrase or passphrase link. I can assist you in the chat for your order. When you send me this info I will shoot you a message in your chat, on the passphrase page.`
   },
