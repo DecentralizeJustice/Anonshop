@@ -22,6 +22,10 @@ const faq = [
   {
     question: `Do you use Amazon Prime?`,
     answer: `No. We do no use Amazon Prime to ship products. If you want faster shipping, that would be extra.`
+  },
+  {
+    question: `Are there any restrictions on what you can ship?`,
+    answer: `Yes. We can not process gun related items and we reserve the right to not process other orders on a case by case basis.`
   }
 ]
 const selectedQuestion = ref(-1)
