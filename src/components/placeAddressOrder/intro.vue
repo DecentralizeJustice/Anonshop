@@ -10,9 +10,8 @@ const enabled4 = ref(false)
 const enabled5 = ref(false)
 const requirements = [
 {
-    title: 'We also offer package forwarding via this service.',
-    text: `With package forwarding, your item is delivered to me, and I send it to you. This can help hide your address from a retailer.
-    In order to request this service, simply add a note to your order  here and shoot me a message in your order chat. Package forwarding also requires you to pay for shipping to your address, from me.`
+    title: 'We no longer offer package forwarding services.',
+    text: `Do to issues with our previous package forwarding service, we no longer offer this service.`
   }
 ]
 function next(){
