@@ -10,8 +10,8 @@ const enabled4 = ref(false)
 const enabled5 = ref(false)
 const requirements = [
 {
-    title: 'We no longer offer package forwarding services.',
-    text: `Do to issues with our previous package forwarding service, we no longer offer this service.`
+    title: '600+ USD Minimum for package forwarding orders.',
+    text: `Our package forwarding service minimum is 600 USD due to the cost of package forwarding.`
   }
 ]
 function next(){
