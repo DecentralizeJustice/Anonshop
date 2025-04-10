@@ -9,7 +9,7 @@ const faq = [
   },
   {
     question: 'How do refunds work?',
-    answer: 'Refunds are issued with at the USD value that the order was placed at. This is becuase I do not hold the crypto through the exchange.'
+    answer: 'Refunds are issued based upon the USD value that the order was placed at. This is becuase I do not hold the crypto through the exchange.'
   },
   {
     question: 'Your website list tax as 8%, but the tax is not that high.',
