@@ -17,6 +17,10 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `hello, i made an order yesterday, and i didn't get an 8 word phrase, i don't know what to do, if you don't refund me again i guess i will assume it will be shipped`,
+    a: `Hi friend. Shoot me some details about your order and I will shoot you a refund! You could place the order again if you wish.`
+  },
+{
     q: `Hi. My order has been delayed for a couple of days.`,
     a: `I have been sick recently. Sorry for the delays. I can issue you a full refund if you request it in the chat. Thank you for bearign with me.`
   },
