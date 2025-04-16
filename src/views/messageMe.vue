@@ -17,6 +17,14 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hi, I just placed an order and clicked the payment link before I could copy down the 8 word login. Could you please send that login? Here's pgp if you can't make it viewable to just this comment's sender....`,
+    a: `Hi friend.Just send me your xmr address and some details about your order. I will send you a refund and you can place the order again if you wish.`
+  },
+{
+    q: `What I ordered cost .... a few days ago if you remember. I'm the person form question 82, what can I do to get in contact besides order another thing?`,
+    a: `Hi friend. I already refunded that order a couple of days ago.`
+  },
+{
     q: `hello, i made an order yesterday, and i didn't get an 8 word phrase, i don't know what to do, if you don't refund me again i guess i will assume it will be shipped`,
     a: `Hi friend. Shoot me some details about your order and I will shoot you a refund! You could place the order again if you wish.`
   },
