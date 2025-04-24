@@ -17,6 +17,10 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hello, this is the person from questions 82 and 83. I have sent you the transaction info. Do you need it again? I don't know what else to do.`,
+    a: `Hi friend.I think i refunded your order last week. I could be wrong though. Please check your refund address and if its not there send me the transctions id's for your orders.`
+  },
+{
     q: `Hi, I just placed an order and clicked the payment link before I could copy down the 8 word login. Could you please send that login? Here's pgp if you can't make it viewable to just this comment's sender....`,
     a: `Hi friend.Just send me your xmr address and some details about your order. I will send you a refund and you can place the order again if you wish.`
   },
