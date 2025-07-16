@@ -17,8 +17,8 @@ async function sendMessage() {
 }
 const faq = [
 {
-    q: `This is the person from questions 82 83 and 85, I have sent you the transaction info...`,
-    a: `Hi. You should have the refund by now. If not I can make a new chat for you, because this method of communication is not optimal to resolve these issues.`
+    q: `I lost my passphrase!`,
+    a: `Hi. I sent you a full refund yeterday. Please check your refund address.`
   },
 {
     q: `Hello, this is the person from questions 82 and 83. I have sent you the transaction info. Do you need it again? I don't know what else to do.`,
