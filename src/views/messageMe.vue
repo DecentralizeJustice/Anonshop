@@ -18,7 +18,7 @@ async function sendMessage() {
 const faq = [
   {
     q: `Is this service still active as of 2025`,
-    a:`Yes, its Aug 20, 2025 and we are still very active!`
+    a:`Yes, its Aug 20, 2025 and we are still very active! `
   },
 {
     q: `I lost my passphrase!`,
