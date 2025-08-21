@@ -16,6 +16,10 @@ async function sendMessage() {
   messageSent.value = true
 }
 const faq = [
+  {
+    q: `Is this service still active as of 2025`,
+    a:`Yes, its Aug 20, 2025 and we are still very active!`
+  },
 {
     q: `I lost my passphrase!`,
     a: `Hi. I sent you a full refund yeterday. Please check your refund address.`
