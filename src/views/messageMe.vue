@@ -17,6 +17,11 @@ async function sendMessage() {
 }
 const faq = [
 {
+    q: `Hi, is your service for any onlineshop, or only for specifc ones?
+`,
+    a: `This service works for any online shop.`
+  },
+{
     q: `I lost my passphrase!`,
     a: `Hi. I sent you a full refund yeterday. Please check your refund address.`
   },
