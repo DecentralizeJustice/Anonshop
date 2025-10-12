@@ -17,6 +17,12 @@ async function sendMessage() {
 }
 const faq = [
   {
+    q: `Hi. I have placed an order but the payment link didn't work. I can't see my order anymore...`,
+    a:`I am showing that there was aroudn5 orders placed within 2 minutes with this order. 
+    I think your browser might be causing issues. It needs to have javascript enabled. 
+    You can try a different browser.`
+  },
+  {
     q: `Is this service still active as of 2025`,
     a:`Yes, its Aug 20, 2025 and we are still very active! `
   },
