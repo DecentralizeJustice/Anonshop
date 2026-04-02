@@ -16,6 +16,10 @@ async function sendMessage() {
   messageSent.value = true
 }
 const faq = [
+    {
+    q: `April 1, 2026 following up to check on the status of TXID...`,
+    a:`Hi. I refunded this order yesterday.`
+  },
   {
     q: `Hi. I have placed an order but the payment link didn't work. I can't see my order anymore...`,
     a:`I am showing that there was aroudn5 orders placed within 2 minutes with this order. 
