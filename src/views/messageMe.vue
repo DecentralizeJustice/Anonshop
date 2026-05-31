@@ -16,6 +16,10 @@ async function sendMessage() {
   messageSent.value = true
 }
 const faq = [
+     {
+    q: `I'm unable to check on my order when I use my passphrase....`,
+    a:`Hi friend. Message me the day of your order or the txid if you have it and we can work on getting you back in. `
+  },
     {
     q: `April 1, 2026 following up to check on the status of TXID...`,
     a:`Hi. I refunded this order yesterday.`
