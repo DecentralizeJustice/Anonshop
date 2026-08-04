@@ -16,6 +16,10 @@ async function sendMessage() {
   messageSent.value = true
 }
 const faq = [
+       {
+    q: `Ordered 2h`,
+    a:`Hi friend. I am not showing a transaction on the day that you mentioned. Can you send me the xmr transaction id? `
+  },
      {
     q: `I'm unable to check on my order when I use my passphrase....`,
     a:`Hi friend. Message me the day of your order or the txid if you have it and we can work on getting you back in. `
