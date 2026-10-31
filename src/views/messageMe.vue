@@ -16,6 +16,10 @@ async function sendMessage() {
   messageSent.value = true
 }
 const faq = [
+             {
+    q: `I paid for my order with txid...`,
+    a:`Your order login should work now. Thanks for reaching out. `
+  },
          {
     q: `Hi mate. I wanted to use your service to pre-order an XXX. Given the hefty price tag of the config, I was wondering XXX?`,
     a:`Hi friend. I am sure that we can come to a good setup for you. You can make an order of a smalll amount and we can chat more there. If that works for you. `
